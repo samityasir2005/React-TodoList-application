@@ -1,8 +1,11 @@
 {
-  "name": "lab4_todo",
+  "name": "react-todolist-application",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A feature-rich Todo List application built with React, featuring task management, completion tracking, and local storage persistence",
+  "author": "Samit Yasir",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
